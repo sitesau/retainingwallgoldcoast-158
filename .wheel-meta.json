@@ -1,0 +1,22 @@
+{
+  "wheel_id": 881,
+  "structure": "umbrella",
+  "slug": "retainingwallgoldcoast-158",
+  "project": "retaining-walls-gold-coast-council-and-approvals-9ef69da294feba",
+  "parent_t1_ref": "retainingwallgoldcoast-014",
+  "node_role": "buffer",
+  "money_target": "retainingwallgoldcoast.com.au",
+  "primary_kw": "retaining walls gold coast council and approvals",
+  "intended_url": "http://retaining-walls-gold-coast-council-and-approvals-9ef69da294feba.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "c1c3303aa7970a63",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/retaining-walls-gold-coast-retainingwallgoldcoast-014/",
+      "anchor": "Retaining Walls Gold Coast: A Practical Site Planning Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
